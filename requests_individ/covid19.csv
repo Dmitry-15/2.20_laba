@@ -1,4 +1,4 @@
-Country/Other,Cases in the last 7 days,Cases in the preceding 7 days,Weekly Case % Change,Cases in the last 7 days/1M pop,Deaths in the last 7 days,Deaths in the preceding 7 days,Weekly Death % Change,Deaths in the last 7 days/1M pop,Population
+Country,CasesLast7d,CasesPreceding7d,WeeklyCasePerChange,CasesLast7d1MPop,DeathsLast7d,DeathsPreceding7d,WeeklyDeathPerChange,DeathsLast7d1MPop,Population
 Argentina,18322,36321,-50,399,415,307,35,9.0,45913837
 Bolivia,1595,2312,-31,133,5,9,-44,0.4,11948668
 Brazil,211934,261708,-19,985,1665,2122,-22,8.0,215175647

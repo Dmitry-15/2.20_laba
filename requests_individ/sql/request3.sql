@@ -1,0 +1,1 @@
+SELECT Country, Population FROM covid ORDER BY Population ASC LIMIT 10;
